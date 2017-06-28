@@ -4,7 +4,7 @@ version: 3.0
 author: Purely Satanic
 depend: [WorldGuard]
 description: >
-             SubwaySystem by Purely Satanic, Rebuilt by Fahur
+             SubwaySystem by Purely Satanic, Rebuilt by Fahlur
 commands:
   Subway:
     description:
