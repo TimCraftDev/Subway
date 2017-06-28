@@ -1,0 +1,15 @@
+name: Subway
+main: me.Fahlur.Subway.Subway
+version: 3.0
+author: Purely Satanic
+depend: [WorldGuard]
+description: >
+             SubwaySystem by Purely Satanic, Rebuilt by Fahur
+commands:
+  Subway:
+    description:
+    usage: |
+      /<command> generate [radius] [schematic] [-e]
+      /<command> custom [name] [schematic]
+      /<command> remove [station]
+      /<command> search [region]
